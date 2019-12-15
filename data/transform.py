@@ -31,4 +31,4 @@ dades_long = dades_long.drop(['variable'], axis=1)
 dades_long = dades_long.groupby(['Loc','Dev']).sum()
 
 # Guardem les dades en un fitxer CSV
-dades_long.to_csv('data_clean.csv', sep=';', decimal=',')
+dades_long.to_csv('data_transformed.csv', sep=';', decimal=',')
