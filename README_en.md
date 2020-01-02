@@ -38,4 +38,6 @@ The visualization creation process is detailed in the [documents](./documents) f
 PA-X Peace Agreements Database and Dataset, Version 2. Political Settlements Research Programme, 
 University of Edinburgh, Edinburgh. http://www.peaceagreements.org
 
+----
+
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)

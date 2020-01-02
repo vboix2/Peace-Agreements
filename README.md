@@ -42,6 +42,6 @@ El procés d'elaboració de la visualització es troba detallat als informes de 
 PA-X Peace Agreements Database and Dataset, Version 2. Political Settlements Research Programme, 
 University of Edinburgh, Edinburgh. http://www.peaceagreements.org
 
-![CC BY 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+----
 
 Aquesta obra està subjecta a una llicència de [Reconeixement 4.0 Internacional de Creative Commons](https://creativecommons.org/licenses/by/4.0/)
