@@ -1,4 +1,4 @@
-#  La reconstrucció socioeconòmica als acords de pau
+#  Desenvolupament socioeconòmic als acords de pau
 
 [English version](README_en.md)
 
@@ -11,7 +11,7 @@ La visualització de dades es troba publicada a [Tableau Public](https://public.
 El seu objectiu és representar el nombre d'acords de pau que inclouen referències a la reconstrucció i el desenvolupament socioeconòmic d'una 
 regió després d'un conflicte, mostrant aspectes com la distribució geogràfica, el nivell de detall de l'acord i la finalitat dels recursos.
 
-[![Visualització](./documents/Visualitzacio.png)](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreements_15779063007210/Visualitzacio)
+[![Visualization](images/Visualitzacio.png)](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreements_15779063007210/Visualitzacio)
 
 ## Dades
 
@@ -23,7 +23,7 @@ el codi utilitzat per a la neteja i transformació de les dades.
 
 * [pax_all_agreements_data.xlsx](./data/pax_all_agreements_data.xlsx) - Dades originals disponibles al projecte Peace Agreements
 * [data.csv](./data/data.csv) - Dades seleccionades en format CSV
-* [transform.py](./data/transform.py) - Codi utilitzat per a la neteja i transformació de les dades
+* [transform.py](./data/transform.py) - Codi python utilitzat per a la neteja i transformació de les dades
 * [data_transformed.csv](./data/data_transformed.csv) - Dades processades utilitzades a la visualització
 * [CountryCodes_alpha3.csv](./data/CountryCodes_alpha3.csv) - Nom i codi dels països segons la ISO 3166-1 alpha-3
 

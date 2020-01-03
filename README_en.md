@@ -1,15 +1,15 @@
-#  Peace Agreements: Socio-economic reconstruction
+#  Socio-economic development at peace agreements
 
 This work shows the data visualization elaboration process based on information from 
 [Peace Agreements](https://www.peaceagreements.org/) project of the University of Edinburgh.
 
 ## Data visualization
 
-Data visualization is published in [Tableau Public](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreements_15779063007210/Visualitzacio). 
+Data visualization is published in [Tableau Public](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreementsen/Dashboard). 
 It represents the number of peace agreements that include references to reconstruction and socio-economic development 
 of a region after a conflict, showing aspects such as geographical distribution, level of detail and purpose of resources.
 
-[![Visualització](./documents/Visualitzacio.png)](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreements_15779063007210/Visualitzacio)
+[![Visualització](images/Visualization.png)](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreementsen/Dashboard)
 
 ## Data
 
