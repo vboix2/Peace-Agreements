@@ -1,15 +1,15 @@
 #  Socio-economic development at peace agreements
 
-This work shows the data visualization elaboration process based on information from 
+This work shows the elaboration process of data visualization based on information from 
 [Peace Agreements](https://www.peaceagreements.org/) project of the University of Edinburgh.
 
 ## Data visualization
 
-Data visualization is published in [Tableau Public](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreementsen/Dashboard). 
+Data visualization is published on [Tableau Public](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreements_15783398211110/Dashboard). 
 It represents the number of peace agreements that include references to reconstruction and socio-economic development 
-of a region after a conflict, showing aspects such as geographical distribution, level of detail and purpose of resources.
+of a region after a conflict, showing aspects such as geographical distribution, purpose of resources and level of agreement details.
 
-[![Visualització](images/Visualization.png)](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreementsen/Dashboard)
+[![Visualització](images/Visualization.png)](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreements_15783398211110/Dashboard)
 
 ## Data
 
@@ -25,7 +25,7 @@ The [data](./data) folder contains all the files used to build the data visualiz
 
 ## Documents
 
-The visualization creation process is detailed in the [documents](./documents) folder.
+The creation process of the visualization is detailed in the [documents](./documents) folder.
 
 * [PAC2](./documents/PAC2_VictorBoix.pdf) - Dataset exploration
 * [PAC3](./documents/PAC3_VictorBoix.pdf) - Visualization report

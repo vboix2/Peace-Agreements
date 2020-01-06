@@ -7,11 +7,12 @@ a tot el món proporcionada pel projecte [Peace Agreements](https://www.peaceagr
 
 ## Visualització de dades
 
-La visualització de dades es troba publicada a [Tableau Public](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreements_15779063007210/Visualitzacio). 
-El seu objectiu és representar el nombre d'acords de pau que inclouen referències a la reconstrucció i el desenvolupament socioeconòmic d'una 
-regió després d'un conflicte, mostrant aspectes com la distribució geogràfica, el nivell de detall de l'acord i la finalitat dels recursos.
+La visualització de dades es troba publicada a [Tableau Public](https://public.tableau.com/profile/vboix2#!/vizhome/Acordsdepau/Visualitzacio). 
+El seu objectiu és representar el nombre d'acords de pau que inclouen recursos per a la reconstrucció i el 
+desenvolupament socioeconòmic d'una regió després d'un conflicte, mostrant aspectes com la distribució geogràfica, 
+la finalitat dels recursos i el nivell de detall de l'acord.
 
-[![Visualization](images/Visualitzacio.png)](https://public.tableau.com/profile/vboix2#!/vizhome/PeaceAgreements_15779063007210/Visualitzacio)
+[![Visualization](images/Visualitzacio.png)](https://public.tableau.com/profile/vboix2#!/vizhome/Acordsdepau/Visualitzacio)
 
 ## Dades
 
