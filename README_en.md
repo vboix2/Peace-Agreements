@@ -1,4 +1,4 @@
-#  Socio-economic development at peace agreements
+#  Socio-economic development in peace agreements
 
 This work shows the elaboration process of data visualization based on information from 
 [Peace Agreements](https://www.peaceagreements.org/) project of the University of Edinburgh.
